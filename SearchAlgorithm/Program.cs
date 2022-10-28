@@ -2,5 +2,8 @@
 
 namespace SearchAlgorithm
 {
-    
+    class Program
+    {
+        
+    }
 }
